@@ -15,9 +15,9 @@ Colocando em prática o aprendizado em Bootstrap, com um projeto de uma página 
  <img align="center" alt="demonstração" src="./assets/img/art-page.gif" />
  </p>
 
-## 🌐 Site
+## 🌐 Página
 
-<https://hebert-santana.github.io/frame-bs-artpage/>
+<https://galeria-arte.vercel.app/>
 
 ## Autor
 ~~~ javascript
