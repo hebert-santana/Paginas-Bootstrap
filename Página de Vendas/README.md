@@ -18,7 +18,7 @@ Colocando em prática o aprendizado em Bootstrap, com um projeto de Sales Page r
 
 ## 🌐 Site
 
-<https://hebert-santana.github.io/frame-bs-salespage/>
+<https://pagina-de-vendas-theta.vercel.app/>
 
 
 <hr>
