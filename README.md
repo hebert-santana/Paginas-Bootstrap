@@ -1,2 +1,2 @@
 # BOOTSTRAP-layouts
-Layouts de página web criados com bootstrap.
+Layouts de páginas web criadas com bootstrap.
